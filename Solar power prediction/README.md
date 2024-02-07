@@ -32,13 +32,13 @@
 
 
 ## Performance
-* Pinball Loss로 심사함
+* Pinball Loss로 심사함 <br> 
   ![image](https://github.com/Silinu1016/Competition/assets/97217295/ea360ddd-c6d2-4844-9bde-4e0dfa8278a5)
   * τ: 퀀타일 값 (0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9)
 	* y: 실제 값
 	* z: 퀀타일 예측값
 	* Lτ: pinball loss 함수
 * 결과
-  * 9.5 → 1.75까지 Loss를 줄여 Public 기준 7등함.
+  * 9.5 → 1.75까지 Loss를 줄여 Public 기준 7등함. <br> 
   ![image](https://github.com/Silinu1016/Competition/assets/97217295/0a55b60d-8023-4960-8ca7-2c67e0674e84)
 
