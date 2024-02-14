@@ -17,7 +17,7 @@
   * Autogluon 모델을 사용함
 
 * **Hyperparameter**
-  * 입력 길이 : 48일 간의 TARGET 데이터
+  * 입력 길이 : 48일 간의 데이터
   * 예측 길이 : 28일 간의 price 데이터
   * Eval_metric: RMSE
   * Random Seed: 16
